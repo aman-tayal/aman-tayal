@@ -18,5 +18,3 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aman16tayal&theme=react-dark)
