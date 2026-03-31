@@ -12,13 +12,3 @@
 </p>
 
 [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=aman16tayal&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
-
-<h3 align="left">Languages and Tools:</h3>
-
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
