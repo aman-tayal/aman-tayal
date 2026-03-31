@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aman Tayal</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Dear!+👋;+I'm+Aman+Tayal;&center=true&font=Righteous&size=35&color=FF813F">
+
+</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 📫 How to reach me **aman16tayal@gmail.com**
