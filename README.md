@@ -11,6 +11,10 @@
 
 [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=aman16tayal&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 
 ## Hi there! 👋
 
@@ -19,8 +23,6 @@
 **I'm Aman Tayal** — B.Tech (Computer Science) student with a passion for coding, data, and AI. 🚀
 
 Turning classroom concepts into practical projects — from beginner Python tools to data analysis notebooks. Always learning, building, and exploring ways to make data useful.
-
-## About Me
 
 ### About Me
 
@@ -37,7 +39,6 @@ Connect with me on LinkedIn to see updates and academic projects:
 
 py,html,css,git,github,sklearn,pycharm,vscode,azure,aws,eclipse,c,java,cloudflare,androidstudio,js,figma,kali,windows,linux
 
-## Top Projects
 
 ### Top Projects
 
