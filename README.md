@@ -22,14 +22,12 @@
 
 **I'm Aman Tayal** — B.Tech (Computer Science) student with a passion for coding, data, and AI. 🚀
 
-Turning classroom concepts into practical projects — from beginner Python tools to data analysis notebooks. Always learning, building, and exploring ways to make data useful.
-
 ### About Me
 
 - 🔭 Current: B.Tech (CS) at **Raj Kumar Goel Institute Of Technology**
 - 📍 Location: Ghaziabad, India
 - 🧠 Bio: B.Tech in CS with a passion for coding and AI. I enjoy building small tools and data projects to learn fundamentals and solve practical problems.
-- 🎯 Interests: Data analysis, machine learning fundamentals, Python tooling, and web front-end basics.
+- 🎯 Interests: Python Development | Java Development | Cloud Computing | Data analysis | machine learning 
 
 Connect with me on LinkedIn to see updates and academic projects:
 
@@ -37,29 +35,30 @@ Connect with me on LinkedIn to see updates and academic projects:
 
 ## Skills & Technologies
 
-py,html,css,git,github,sklearn,pycharm,vscode,azure,aws,eclipse,c,java,cloudflare,androidstudio,js,figma,kali,windows,linux
+**Programming Languages:** Java, Python, C
+
+**Web Technologies:** HTML, CSS
+
+**Machine Learning:** scikit-learn
+
+**Cloud:** Microsoft Azure, AWS
+
+**Tools & IDEs:** Git, GitHub, VS Code, PyCharm, Eclipse, Android Studio , Intelij Idea
+
+**Design:** Canva
 
 
 ### Top Projects
 
 1. [py-data-insights](https://github.com/aman-tayal/py-data-insights)
    - 📌 Description: A Python-based data analysis project focused on preprocessing, exploratory data analysis, and extracting meaningful insights from real-world datasets.
-   - ⭐ Stars: 0  |  🍴 Forks: 0  |  🐛 Open issues: 0
-   - 🧩 Primary language: Jupyter Notebook
 
 2. [Expense-Tracker](https://github.com/aman-tayal/Expense-Tracker)
    - 📌 Description: Beginner-friendly expense tracker using Python lists, dictionaries, loops, and conditionals — records daily expenses and summarizes totals.
-   - ⭐ Stars: 0  |  🍴 Forks: 0  |  🐛 Open issues: 0
-   - 🧩 Primary language: Python
 
 3. [meghalaya-culture-landscape](https://github.com/aman-tayal/meghalaya-culture-landscape)
    - 📌 Description: Simple HTML project showcasing Meghalaya's culture and natural beauty with multimedia elements (audio/video) to highlight songs and performances.
-   - ⭐ Stars: 0  |  🍴 Forks: 0  |  🐛 Open issues: 0
-   - 🧩 Primary language: HTML  |  🌐 GitHub Pages: Enabled
 
-
-Notes:
-- These projects reflect a progression from foundational Python projects to data analysis notebooks and simple web showcases. Contributions and updates are ongoing.
 
 ### Latest Blog Posts
 
