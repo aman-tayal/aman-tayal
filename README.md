@@ -9,7 +9,7 @@
 <p align="left">
 </p>
 
-[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=aman16tayal&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
+[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=aman-tayal&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
@@ -42,17 +42,17 @@ py,html,css,git,github,sklearn,pycharm,vscode,azure,aws,eclipse,c,java,cloudflar
 
 ### Top Projects
 
-1. [py-data-insights](https://github.com/aman16tayal/py-data-insights)
+1. [py-data-insights](https://github.com/aman-tayal/py-data-insights)
    - 📌 Description: A Python-based data analysis project focused on preprocessing, exploratory data analysis, and extracting meaningful insights from real-world datasets.
    - ⭐ Stars: 0  |  🍴 Forks: 0  |  🐛 Open issues: 0
    - 🧩 Primary language: Jupyter Notebook
 
-2. [Expense-Tracker](https://github.com/aman16tayal/Expense-Tracker)
+2. [Expense-Tracker](https://github.com/aman-tayal/Expense-Tracker)
    - 📌 Description: Beginner-friendly expense tracker using Python lists, dictionaries, loops, and conditionals — records daily expenses and summarizes totals.
    - ⭐ Stars: 0  |  🍴 Forks: 0  |  🐛 Open issues: 0
    - 🧩 Primary language: Python
 
-3. [meghalaya-culture-landscape](https://github.com/aman16tayal/meghalaya-culture-landscape)
+3. [meghalaya-culture-landscape](https://github.com/aman-tayal/meghalaya-culture-landscape)
    - 📌 Description: Simple HTML project showcasing Meghalaya's culture and natural beauty with multimedia elements (audio/video) to highlight songs and performances.
    - ⭐ Stars: 0  |  🍴 Forks: 0  |  🐛 Open issues: 0
    - 🧩 Primary language: HTML  |  🌐 GitHub Pages: Enabled
@@ -60,18 +60,6 @@ py,html,css,git,github,sklearn,pycharm,vscode,azure,aws,eclipse,c,java,cloudflar
 
 Notes:
 - These projects reflect a progression from foundational Python projects to data analysis notebooks and simple web showcases. Contributions and updates are ongoing.
-
-## GitHub Stats
-
-### GitHub Stats
-
-- Public repositories: **4**
-
-Badges:
-
-- ![Followers](https://img.shields.io/github/followers/aman16tayal?label=Followers&style=social)
-- ![Repos](https://img.shields.io/badge/Public%20Repos-4-blue)
-- ![Following](https://img.shields.io/badge/Following-4-lightgrey)
 
 ## Recent Activity
 
@@ -100,7 +88,7 @@ In the meantime, you can follow project write-ups and notes on my GitHub reposit
 
 ### Connect with Me
 
-- 🐙 GitHub: [aman16tayal](https://github.com/aman16tayal)
+- 🐙 GitHub: [aman16tayal](https://github.com/aman-tayal)
 - 💼 LinkedIn: [Aman Tayal](https://www.linkedin.com/in/aman-tayal-cs)
 - ✉️ Email: aman16tayal@gmail.com
 
