@@ -73,6 +73,5 @@ In the meantime, you can follow project write-ups and notes on my GitHub reposit
 
 - 🐙 GitHub: [aman-tayal](https://github.com/aman-tayal)
 - 💼 LinkedIn: [Aman Tayal](https://www.linkedin.com/in/aman-tayal-cs)
-- ✉️ Email: aman16tayal@gmail.com
 
 Feel free to open an issue on any project, send a PR, or connect on LinkedIn. I'm open to collaboration and mentorship opportunities! ✨
