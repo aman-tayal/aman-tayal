@@ -75,9 +75,4 @@ In the meantime, you can follow project write-ups and notes on my GitHub reposit
 - 💼 LinkedIn: [Aman Tayal](https://www.linkedin.com/in/aman-tayal-cs)
 - ✉️ Email: aman16tayal@gmail.com
 
-Currently working on:
-
-- 🔧 Improving data analysis workflows (Jupyter/Python)
-- 🤖 Learning applied AI and ML fundamentals
-
 Feel free to open an issue on any project, send a PR, or connect on LinkedIn. I'm open to collaboration and mentorship opportunities! ✨
