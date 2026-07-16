@@ -61,22 +61,6 @@ py,html,css,git,github,sklearn,pycharm,vscode,azure,aws,eclipse,c,java,cloudflar
 Notes:
 - These projects reflect a progression from foundational Python projects to data analysis notebooks and simple web showcases. Contributions and updates are ongoing.
 
-## Recent Activity
-
-### Recent Activity (latest events)
-
-- 2026-03-31T08:04:40Z — Push to **aman16tayal/py-data-insights** (code updates to main) 🟢
-- 2026-03-31T08:02:21Z — Push to **aman16tayal/py-data-insights** (push to main) 🟢
-- 2026-03-31T07:52:07Z — Push to **aman16tayal/py-data-insights** (incremental updates) 🟢
-- 2026-03-31T07:46:00Z — Created branch **main** on **aman16tayal/py-data-insights** (repository/branch creation) 🌱
-- 2026-03-31T07:24:33Z — Push to **aman16tayal/aman16tayal** (profile updates) 📝
-- 2026-03-31T07:19:32Z — Push to **aman16tayal/aman16tayal** (profile updates) 📝
-- 2026-03-26T15:15:27Z — Push to **aman16tayal/aman16tayal** (earlier profile changes) 📝
-
-For full activity, visit: https://github.com/aman16tayal
-
-## Latest Blog Posts
-
 ### Latest Blog Posts
 
 
@@ -88,7 +72,7 @@ In the meantime, you can follow project write-ups and notes on my GitHub reposit
 
 ### Connect with Me
 
-- 🐙 GitHub: [aman16tayal](https://github.com/aman-tayal)
+- 🐙 GitHub: [aman-tayal](https://github.com/aman-tayal)
 - 💼 LinkedIn: [Aman Tayal](https://www.linkedin.com/in/aman-tayal-cs)
 - ✉️ Email: aman16tayal@gmail.com
 
